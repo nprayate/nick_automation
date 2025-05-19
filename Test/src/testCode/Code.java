@@ -7,6 +7,11 @@ public class Code {
 		System.err.println("test");
 		System.out.println("learning git hub command");
 		System.out.println("test the latest changes");
+		
+		System.err.println("test");
+		System.out.println("learning git hub command");
+		System.out.println("test the latest changes");
+		
 	}
 
 }
